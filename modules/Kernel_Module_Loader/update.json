@@ -1,0 +1,13 @@
+{
+  "id": "Kernel_Module_Loader",
+  "timestamp": 1686024778.0,
+  "versions": [
+    {
+      "timestamp": 1686024778.0,
+      "version": "v1.0.1",
+      "versionCode": 101,
+      "zipUrl": "https://natsumerinchan.github.io/celica-magisk-modules-repo/modules/Kernel_Module_Loader/v1.0.1_101.zip",
+      "changelog": ""
+    }
+  ]
+}

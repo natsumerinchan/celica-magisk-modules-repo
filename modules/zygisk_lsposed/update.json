@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_lsposed",
+  "timestamp": 1673882223.0,
+  "versions": [
+    {
+      "timestamp": 1673882223.0,
+      "version": "v1.8.6 (6712)",
+      "versionCode": 6712,
+      "zipUrl": "https://natsumerinchan.github.io/celica-magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_6712.zip",
+      "changelog": "https://natsumerinchan.github.io/celica-magisk-modules-repo/modules/zygisk_lsposed/v1.8.6_6712.md"
+    }
+  ]
+}

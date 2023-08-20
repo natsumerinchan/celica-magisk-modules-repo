@@ -1,0 +1,8 @@
+{
+  "id": "zygisk_lsposed",
+  "update_to": "https://lsposed.github.io/LSPosed/release/zygisk.json",
+  "license": "GPL-3.0",
+  "added": 1692506320.428253,
+  "last_update": 1673882223.0,
+  "versions": 1
+}

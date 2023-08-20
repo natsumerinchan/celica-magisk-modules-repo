@@ -1,0 +1,11 @@
+{
+  "id": "Kernel_Module_Loader",
+  "update_to": "https://github.com/natsumerinchan/Kernel_Module_Loader.git",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/natsumerinchan/Kernel_Module_Loader",
+  "source": "https://github.com/natsumerinchan/Kernel_Module_Loader.git",
+  "support": "https://github.com/natsumerinchan/Kernel_Module_Loader/issues",
+  "added": 1692506987.215388,
+  "last_update": 1686024778.0,
+  "versions": 1
+}

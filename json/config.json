@@ -1,0 +1,11 @@
+{
+  "NAME": "Celica Magisk Modules Repo",
+  "BASE_URL": "https://natsumerinchan.github.io/celica-magisk-modules-repo/",
+  "MAX_NUM": 3,
+  "ENABLE_LOG": true,
+  "LOG_DIR": "log",
+  "ENV": {
+    "CONFIG_VERSION": 1,
+    "TRACK_VERSION": 1
+  }
+}

@@ -1,0 +1,295 @@
+[2023/08/20 12:46:00] LocalTracks INFO: get_tracks: modules_folder = /home/celica/Github/celica-magisk-modules-repo/util/modules
+[2023/08/20 12:46:00] LocalTracks INFO: get_tracks: size = 2
+[2023/08/20 12:46:00] Pull DEBUG: from_track: [zygisk_lsposed] -> type: ONLINE_JSON
+[2023/08/20 12:46:10] Sync INFO: update: [zygisk_lsposed] -> update to v1.8.6 (6712)
+[2023/08/20 12:46:10] Pull DEBUG: from_track: [zygisk_shamiko] -> type: ONLINE_JSON
+[2023/08/20 12:46:17] Sync INFO: update: [zygisk_shamiko] -> update to v0.7.3 (174)
+[2023/08/20 12:46:17] LocalTracks INFO: get_tracks: modules_folder = /home/celica/Github/celica-magisk-modules-repo/util/modules
+[2023/08/20 12:46:17] LocalTracks INFO: get_tracks: size = 2
+[2023/08/20 12:48:46] GithubTracks INFO: get_tracks: user_name = natsumerinchan
+[2023/08/20 12:48:49] GithubTracks DEBUG: _get_from_repo: repo_name = 996.ICU
+[2023/08/20 12:48:49] GithubTracks ERROR: _get_from_repo: [996.ICU] -> MagiskModuleError(996.ICU is not a target magisk module repository)
+[2023/08/20 12:48:49] GithubTracks DEBUG: _get_from_repo: repo_name = actions_android_bootimg_payload_dumper
+[2023/08/20 12:48:49] GithubTracks ERROR: _get_from_repo: [actions_android_bootimg_payload_dumper] -> MagiskModuleError(actions_android_bootimg_payload_dumper is not a target magisk module repository)
+[2023/08/20 12:48:49] GithubTracks DEBUG: _get_from_repo: repo_name = Action_Kernel
+[2023/08/20 12:48:50] GithubTracks ERROR: _get_from_repo: [Action_Kernel] -> MagiskModuleError(Action_Kernel is not a target magisk module repository)
+[2023/08/20 12:48:50] GithubTracks DEBUG: _get_from_repo: repo_name = Action_Magisk_PATCHE
+[2023/08/20 12:48:50] GithubTracks ERROR: _get_from_repo: [Action_Magisk_PATCHE] -> MagiskModuleError(Action_Magisk_PATCHE is not a target magisk module repository)
+[2023/08/20 12:48:50] GithubTracks DEBUG: _get_from_repo: repo_name = adb_root
+[2023/08/20 12:48:51] GithubTracks ERROR: _get_from_repo: [adb_root] -> MagiskModuleError(adb_root is not a target magisk module repository)
+[2023/08/20 12:48:51] GithubTracks DEBUG: _get_from_repo: repo_name = android-kernel-actions
+[2023/08/20 12:48:51] GithubTracks ERROR: _get_from_repo: [android-kernel-actions] -> MagiskModuleError(android-kernel-actions is not a target magisk module repository)
+[2023/08/20 12:48:51] GithubTracks DEBUG: _get_from_repo: repo_name = android-kernel-oneplus-sm8350
+[2023/08/20 12:48:52] GithubTracks ERROR: _get_from_repo: [android-kernel-oneplus-sm8350] -> MagiskModuleError(android-kernel-oneplus-sm8350 is not a target magisk module repository)
+[2023/08/20 12:48:52] GithubTracks DEBUG: _get_from_repo: repo_name = Androidx86-Installer-Linux
+[2023/08/20 12:48:52] GithubTracks ERROR: _get_from_repo: [Androidx86-Installer-Linux] -> MagiskModuleError(Androidx86-Installer-Linux is not a target magisk module repository)
+[2023/08/20 12:48:52] GithubTracks DEBUG: _get_from_repo: repo_name = android_kernel_docker
+[2023/08/20 12:48:52] GithubTracks ERROR: _get_from_repo: [android_kernel_docker] -> MagiskModuleError(android_kernel_docker is not a target magisk module repository)
+[2023/08/20 12:48:52] GithubTracks DEBUG: _get_from_repo: repo_name = android_kernel_manifest
+[2023/08/20 12:48:53] GithubTracks ERROR: _get_from_repo: [android_kernel_manifest] -> MagiskModuleError(android_kernel_manifest is not a target magisk module repository)
+[2023/08/20 12:48:53] GithubTracks DEBUG: _get_from_repo: repo_name = android_packages_apps_Recorder
+[2023/08/20 12:48:53] GithubTracks ERROR: _get_from_repo: [android_packages_apps_Recorder] -> MagiskModuleError(android_packages_apps_Recorder is not a target magisk module repository)
+[2023/08/20 12:48:53] GithubTracks DEBUG: _get_from_repo: repo_name = android_vendor_google_chromeos-x86
+[2023/08/20 12:48:54] GithubTracks ERROR: _get_from_repo: [android_vendor_google_chromeos-x86] -> MagiskModuleError(android_vendor_google_chromeos-x86 is not a target magisk module repository)
+[2023/08/20 12:48:54] GithubTracks DEBUG: _get_from_repo: repo_name = android_vendor_google_emu-x86
+[2023/08/20 12:48:54] GithubTracks ERROR: _get_from_repo: [android_vendor_google_emu-x86] -> MagiskModuleError(android_vendor_google_emu-x86 is not a target magisk module repository)
+[2023/08/20 12:48:54] GithubTracks DEBUG: _get_from_repo: repo_name = AnyDebug
+[2023/08/20 12:48:55] GithubTracks ERROR: _get_from_repo: [AnyDebug] -> MagiskModuleError(AnyDebug is not a target magisk module repository)
+[2023/08/20 12:48:55] GithubTracks DEBUG: _get_from_repo: repo_name = AnyKernel3-op9rt
+[2023/08/20 12:48:55] GithubTracks ERROR: _get_from_repo: [AnyKernel3-op9rt] -> MagiskModuleError(AnyKernel3-op9rt is not a target magisk module repository)
+[2023/08/20 12:48:55] GithubTracks DEBUG: _get_from_repo: repo_name = AOSP-CI
+[2023/08/20 12:48:55] GithubTracks ERROR: _get_from_repo: [AOSP-CI] -> MagiskModuleError(AOSP-CI is not a target magisk module repository)
+[2023/08/20 12:48:55] GithubTracks DEBUG: _get_from_repo: repo_name = Bilibili-Evolved
+[2023/08/20 12:48:56] GithubTracks ERROR: _get_from_repo: [Bilibili-Evolved] -> MagiskModuleError(Bilibili-Evolved is not a target magisk module repository)
+[2023/08/20 12:48:56] GithubTracks DEBUG: _get_from_repo: repo_name = BILIBILI-HELPER-PRE
+[2023/08/20 12:48:56] GithubTracks ERROR: _get_from_repo: [BILIBILI-HELPER-PRE] -> MagiskModuleError(BILIBILI-HELPER-PRE is not a target magisk module repository)
+[2023/08/20 12:48:56] GithubTracks DEBUG: _get_from_repo: repo_name = BuiltIn-BusyBox
+[2023/08/20 12:49:01] GithubTracks DEBUG: _get_from_repo: repo_name = busybox-ndk
+[2023/08/20 12:49:05] GithubTracks DEBUG: _get_from_repo: repo_name = chatgpt-demo
+[2023/08/20 12:49:05] GithubTracks ERROR: _get_from_repo: [chatgpt-demo] -> MagiskModuleError(chatgpt-demo is not a target magisk module repository)
+[2023/08/20 12:49:05] GithubTracks DEBUG: _get_from_repo: repo_name = chromeos-5.4-kernel
+[2023/08/20 12:49:06] GithubTracks ERROR: _get_from_repo: [chromeos-5.4-kernel] -> GithubException(404 {'message': 'This repository is empty.', 'documentation_url': 'https://docs.github.com/v3/repos/contents/#get-contents'} {'server': 'GitHub.com', 'date': 'Sun, 20 Aug 2023 04:49:05 GMT', 'content-type': 'application/json; charset=utf-8', 'transfer-encoding': 'chunked', 'x-oauth-scopes': 'admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages', 'x-accepted-oauth-scopes': '', 'x-github-media-type': 'github.v3; format=json', 'x-github-api-version-selected': '2022-11-28', 'x-ratelimit-limit': '5000', 'x-ratelimit-remaining': '4959', 'x-ratelimit-reset': '1692510378', 'x-ratelimit-used': '41', 'x-ratelimit-resource': 'core', 'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset', 'access-control-allow-origin': '*', 'strict-transport-security': 'max-age=31536000; includeSubdomains; preload', 'x-frame-options': 'deny', 'x-content-type-options': 'nosniff', 'x-xss-protection': '0', 'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin', 'content-security-policy': "default-src 'none'", 'vary': 'Accept-Encoding, Accept, X-Requested-With', 'content-encoding': 'gzip', 'x-github-request-id': 'A0A0:7AAB:4AD1F56:4D5047F:64E19B41'})
+[2023/08/20 12:49:06] GithubTracks DEBUG: _get_from_repo: repo_name = collei
+[2023/08/20 12:49:06] GithubTracks ERROR: _get_from_repo: [collei] -> MagiskModuleError(collei is not a target magisk module repository)
+[2023/08/20 12:49:06] GithubTracks DEBUG: _get_from_repo: repo_name = CrAnberry
+[2023/08/20 12:49:16] GithubTracks ERROR: _get_from_repo: [CrAnberry] -> MagiskModuleError(CrAnberry is not a target magisk module repository)
+[2023/08/20 12:49:16] GithubTracks DEBUG: _get_from_repo: repo_name = dailycheckin
+[2023/08/20 12:49:16] GithubTracks ERROR: _get_from_repo: [dailycheckin] -> MagiskModuleError(dailycheckin is not a target magisk module repository)
+[2023/08/20 12:49:16] GithubTracks DEBUG: _get_from_repo: repo_name = DeepDanbooru
+[2023/08/20 12:49:16] GithubTracks ERROR: _get_from_repo: [DeepDanbooru] -> MagiskModuleError(DeepDanbooru is not a target magisk module repository)
+[2023/08/20 12:49:16] GithubTracks DEBUG: _get_from_repo: repo_name = dino
+[2023/08/20 12:49:17] GithubTracks ERROR: _get_from_repo: [dino] -> MagiskModuleError(dino is not a target magisk module repository)
+[2023/08/20 12:49:17] GithubTracks DEBUG: _get_from_repo: repo_name = DockerGC
+[2023/08/20 12:49:17] GithubTracks ERROR: _get_from_repo: [DockerGC] -> MagiskModuleError(DockerGC is not a target magisk module repository)
+[2023/08/20 12:49:17] GithubTracks DEBUG: _get_from_repo: repo_name = dolby_beta
+[2023/08/20 12:49:18] GithubTracks ERROR: _get_from_repo: [dolby_beta] -> MagiskModuleError(dolby_beta is not a target magisk module repository)
+[2023/08/20 12:49:18] GithubTracks DEBUG: _get_from_repo: repo_name = Ehviewer_CN_SXJ
+[2023/08/20 12:49:18] GithubTracks ERROR: _get_from_repo: [Ehviewer_CN_SXJ] -> MagiskModuleError(Ehviewer_CN_SXJ is not a target magisk module repository)
+[2023/08/20 12:49:19] GithubTracks DEBUG: _get_from_repo: repo_name = erofs
+[2023/08/20 12:49:19] GithubTracks ERROR: _get_from_repo: [erofs] -> MagiskModuleError(erofs is not a target magisk module repository)
+[2023/08/20 12:49:19] GithubTracks DEBUG: _get_from_repo: repo_name = fake-terminal-website
+[2023/08/20 12:49:20] GithubTracks ERROR: _get_from_repo: [fake-terminal-website] -> MagiskModuleError(fake-terminal-website is not a target magisk module repository)
+[2023/08/20 12:49:20] GithubTracks DEBUG: _get_from_repo: repo_name = Fake_Sudo
+[2023/08/20 12:49:24] GithubTracks DEBUG: _get_from_repo: repo_name = ForumSignin
+[2023/08/20 12:49:25] GithubTracks ERROR: _get_from_repo: [ForumSignin] -> MagiskModuleError(ForumSignin is not a target magisk module repository)
+[2023/08/20 12:49:25] GithubTracks DEBUG: _get_from_repo: repo_name = FoxMagiskModuleManager
+[2023/08/20 12:49:25] GithubTracks ERROR: _get_from_repo: [FoxMagiskModuleManager] -> MagiskModuleError(FoxMagiskModuleManager is not a target magisk module repository)
+[2023/08/20 12:49:25] GithubTracks DEBUG: _get_from_repo: repo_name = fuckCheckIn
+[2023/08/20 12:49:26] GithubTracks ERROR: _get_from_repo: [fuckCheckIn] -> MagiskModuleError(fuckCheckIn is not a target magisk module repository)
+[2023/08/20 12:49:26] GithubTracks DEBUG: _get_from_repo: repo_name = gc-cli
+[2023/08/20 12:49:26] GithubTracks ERROR: _get_from_repo: [gc-cli] -> MagiskModuleError(gc-cli is not a target magisk module repository)
+[2023/08/20 12:49:26] GithubTracks DEBUG: _get_from_repo: repo_name = genshin-sign
+[2023/08/20 12:49:26] GithubTracks ERROR: _get_from_repo: [genshin-sign] -> GithubException(403 {'message': 'Repository access blocked', 'block': {'reason': 'tos', 'created_at': '2022-06-27T16:54:41Z', 'html_url': 'https://github.com/tos'}} {'server': 'GitHub.com', 'date': 'Sun, 20 Aug 2023 04:49:26 GMT', 'content-type': 'application/json; charset=utf-8', 'transfer-encoding': 'chunked', 'x-oauth-scopes': 'admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages', 'x-accepted-oauth-scopes': '', 'x-github-media-type': 'github.v3; format=json', 'x-github-api-version-selected': '2022-11-28', 'x-ratelimit-limit': '5000', 'x-ratelimit-remaining': '4937', 'x-ratelimit-reset': '1692510378', 'x-ratelimit-used': '63', 'x-ratelimit-resource': 'core', 'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset', 'access-control-allow-origin': '*', 'strict-transport-security': 'max-age=31536000; includeSubdomains; preload', 'x-frame-options': 'deny', 'x-content-type-options': 'nosniff', 'x-xss-protection': '0', 'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin', 'content-security-policy': "default-src 'none'", 'vary': 'Accept-Encoding, Accept, X-Requested-With', 'content-encoding': 'gzip', 'x-github-request-id': 'A0A0:7AAB:4AD3340:4D51910:64E19B56'})
+[2023/08/20 12:49:26] GithubTracks DEBUG: _get_from_repo: repo_name = Genshin.Launcher.Plus
+[2023/08/20 12:49:27] GithubTracks ERROR: _get_from_repo: [Genshin.Launcher.Plus] -> MagiskModuleError(Genshin.Launcher.Plus is not a target magisk module repository)
+[2023/08/20 12:49:27] GithubTracks DEBUG: _get_from_repo: repo_name = GenshinData
+[2023/08/20 12:49:27] GithubTracks ERROR: _get_from_repo: [GenshinData] -> MagiskModuleError(GenshinData is not a target magisk module repository)
+[2023/08/20 12:49:27] GithubTracks DEBUG: _get_from_repo: repo_name = genshin_auto_fish
+[2023/08/20 12:49:28] GithubTracks ERROR: _get_from_repo: [genshin_auto_fish] -> MagiskModuleError(genshin_auto_fish is not a target magisk module repository)
+[2023/08/20 12:49:28] GithubTracks DEBUG: _get_from_repo: repo_name = github-slideshow
+[2023/08/20 12:49:28] GithubTracks ERROR: _get_from_repo: [github-slideshow] -> MagiskModuleError(github-slideshow is not a target magisk module repository)
+[2023/08/20 12:49:28] GithubTracks DEBUG: _get_from_repo: repo_name = GJZS
+[2023/08/20 12:49:29] GithubTracks ERROR: _get_from_repo: [GJZS] -> MagiskModuleError(GJZS is not a target magisk module repository)
+[2023/08/20 12:49:29] GithubTracks DEBUG: _get_from_repo: repo_name = go-touch-mapper
+[2023/08/20 12:49:29] GithubTracks ERROR: _get_from_repo: [go-touch-mapper] -> MagiskModuleError(go-touch-mapper is not a target magisk module repository)
+[2023/08/20 12:49:29] GithubTracks DEBUG: _get_from_repo: repo_name = Grasscutter
+[2023/08/20 12:49:29] GithubTracks ERROR: _get_from_repo: [Grasscutter] -> MagiskModuleError(Grasscutter is not a target magisk module repository)
+[2023/08/20 12:49:29] GithubTracks DEBUG: _get_from_repo: repo_name = Grasscutter_AnnouncementPage
+[2023/08/20 12:49:30] GithubTracks ERROR: _get_from_repo: [Grasscutter_AnnouncementPage] -> MagiskModuleError(Grasscutter_AnnouncementPage is not a target magisk module repository)
+[2023/08/20 12:49:30] GithubTracks DEBUG: _get_from_repo: repo_name = Grasscutter_Resources
+[2023/08/20 12:49:30] GithubTracks ERROR: _get_from_repo: [Grasscutter_Resources] -> MagiskModuleError(Grasscutter_Resources is not a target magisk module repository)
+[2023/08/20 12:49:30] GithubTracks DEBUG: _get_from_repo: repo_name = Honkai-Star-Rail
+[2023/08/20 12:49:30] GithubTracks ERROR: _get_from_repo: [Honkai-Star-Rail] -> MagiskModuleError(Honkai-Star-Rail is not a target magisk module repository)
+[2023/08/20 12:49:30] GithubTracks DEBUG: _get_from_repo: repo_name = HowToCook
+[2023/08/20 12:49:31] GithubTracks ERROR: _get_from_repo: [HowToCook] -> MagiskModuleError(HowToCook is not a target magisk module repository)
+[2023/08/20 12:49:31] GithubTracks DEBUG: _get_from_repo: repo_name = hpexperince
+[2023/08/20 12:49:37] GithubTracks DEBUG: _get_from_repo: repo_name = IFRExtractor-RS
+[2023/08/20 12:49:37] GithubTracks ERROR: _get_from_repo: [IFRExtractor-RS] -> MagiskModuleError(IFRExtractor-RS is not a target magisk module repository)
+[2023/08/20 12:49:37] GithubTracks DEBUG: _get_from_repo: repo_name = ImageGlass
+[2023/08/20 12:49:38] GithubTracks ERROR: _get_from_repo: [ImageGlass] -> MagiskModuleError(ImageGlass is not a target magisk module repository)
+[2023/08/20 12:49:38] GithubTracks DEBUG: _get_from_repo: repo_name = Imagine
+[2023/08/20 12:49:38] GithubTracks ERROR: _get_from_repo: [Imagine] -> MagiskModuleError(Imagine is not a target magisk module repository)
+[2023/08/20 12:49:38] GithubTracks DEBUG: _get_from_repo: repo_name = infinite-garbage-terminal
+[2023/08/20 12:49:38] GithubTracks ERROR: _get_from_repo: [infinite-garbage-terminal] -> MagiskModuleError(infinite-garbage-terminal is not a target magisk module repository)
+[2023/08/20 12:49:38] GithubTracks DEBUG: _get_from_repo: repo_name = initrd-magisk
+[2023/08/20 12:49:39] GithubTracks ERROR: _get_from_repo: [initrd-magisk] -> MagiskModuleError(initrd-magisk is not a target magisk module repository)
+[2023/08/20 12:49:39] GithubTracks DEBUG: _get_from_repo: repo_name = jslinux-deobfuscated
+[2023/08/20 12:49:39] GithubTracks ERROR: _get_from_repo: [jslinux-deobfuscated] -> MagiskModuleError(jslinux-deobfuscated is not a target magisk module repository)
+[2023/08/20 12:49:39] GithubTracks DEBUG: _get_from_repo: repo_name = kernel-package_android-x86
+[2023/08/20 12:49:40] GithubTracks ERROR: _get_from_repo: [kernel-package_android-x86] -> MagiskModuleError(kernel-package_android-x86 is not a target magisk module repository)
+[2023/08/20 12:49:40] GithubTracks DEBUG: _get_from_repo: repo_name = KernelFlasher
+[2023/08/20 12:49:40] GithubTracks ERROR: _get_from_repo: [KernelFlasher] -> MagiskModuleError(KernelFlasher is not a target magisk module repository)
+[2023/08/20 12:49:40] GithubTracks DEBUG: _get_from_repo: repo_name = KernelSU
+[2023/08/20 12:49:40] GithubTracks ERROR: _get_from_repo: [KernelSU] -> MagiskModuleError(KernelSU is not a target magisk module repository)
+[2023/08/20 12:49:40] GithubTracks DEBUG: _get_from_repo: repo_name = KernelSU_Action
+[2023/08/20 12:49:41] GithubTracks ERROR: _get_from_repo: [KernelSU_Action] -> MagiskModuleError(KernelSU_Action is not a target magisk module repository)
+[2023/08/20 12:49:42] GithubTracks DEBUG: _get_from_repo: repo_name = KernelSU_Oneplus_martini_Guide
+[2023/08/20 12:49:42] GithubTracks ERROR: _get_from_repo: [KernelSU_Oneplus_martini_Guide] -> MagiskModuleError(KernelSU_Oneplus_martini_Guide is not a target magisk module repository)
+[2023/08/20 12:49:42] GithubTracks DEBUG: _get_from_repo: repo_name = Kernel_Module_Loader
+[2023/08/20 12:49:47] GithubTracks DEBUG: _get_from_repo: repo_name = kernel_oneplus_martini
+[2023/08/20 12:49:47] GithubTracks ERROR: _get_from_repo: [kernel_oneplus_martini] -> MagiskModuleError(kernel_oneplus_martini is not a target magisk module repository)
+[2023/08/20 12:49:47] GithubTracks DEBUG: _get_from_repo: repo_name = kernel_oplus_sm8350
+[2023/08/20 12:49:48] GithubTracks ERROR: _get_from_repo: [kernel_oplus_sm8350] -> MagiskModuleError(kernel_oplus_sm8350 is not a target magisk module repository)
+[2023/08/20 12:49:48] GithubTracks DEBUG: _get_from_repo: repo_name = kernel_xiaomi_sm7250
+[2023/08/20 12:49:48] GithubTracks ERROR: _get_from_repo: [kernel_xiaomi_sm7250] -> MagiskModuleError(kernel_xiaomi_sm7250 is not a target magisk module repository)
+[2023/08/20 12:49:48] GithubTracks DEBUG: _get_from_repo: repo_name = kernel_xiaomi_vangogh
+[2023/08/20 12:49:48] GithubTracks ERROR: _get_from_repo: [kernel_xiaomi_vangogh] -> MagiskModuleError(kernel_xiaomi_vangogh is not a target magisk module repository)
+[2023/08/20 12:49:48] GithubTracks DEBUG: _get_from_repo: repo_name = ksugmbot
+[2023/08/20 12:49:49] GithubTracks ERROR: _get_from_repo: [ksugmbot] -> MagiskModuleError(ksugmbot is not a target magisk module repository)
+[2023/08/20 12:49:49] GithubTracks DEBUG: _get_from_repo: repo_name = ksu_exam
+[2023/08/20 12:49:49] GithubTracks ERROR: _get_from_repo: [ksu_exam] -> MagiskModuleError(ksu_exam is not a target magisk module repository)
+[2023/08/20 12:49:49] GithubTracks DEBUG: _get_from_repo: repo_name = learn-regex
+[2023/08/20 12:49:50] GithubTracks ERROR: _get_from_repo: [learn-regex] -> MagiskModuleError(learn-regex is not a target magisk module repository)
+[2023/08/20 12:49:50] GithubTracks DEBUG: _get_from_repo: repo_name = lhroot
+[2023/08/20 12:49:56] GithubTracks DEBUG: _get_from_repo: repo_name = libhoudini
+[2023/08/20 12:49:56] GithubTracks ERROR: _get_from_repo: [libhoudini] -> MagiskModuleError(libhoudini is not a target magisk module repository)
+[2023/08/20 12:49:56] GithubTracks DEBUG: _get_from_repo: repo_name = libhoudini-package
+[2023/08/20 12:49:57] GithubTracks ERROR: _get_from_repo: [libhoudini-package] -> MagiskModuleError(libhoudini-package is not a target magisk module repository)
+[2023/08/20 12:49:57] GithubTracks DEBUG: _get_from_repo: repo_name = Linuxdeploy-Pro
+[2023/08/20 12:49:57] GithubTracks ERROR: _get_from_repo: [Linuxdeploy-Pro] -> MagiskModuleError(Linuxdeploy-Pro is not a target magisk module repository)
+[2023/08/20 12:49:57] GithubTracks DEBUG: _get_from_repo: repo_name = LSPosed
+[2023/08/20 12:49:57] GithubTracks ERROR: _get_from_repo: [LSPosed] -> MagiskModuleError(LSPosed is not a target magisk module repository)
+[2023/08/20 12:49:57] GithubTracks DEBUG: _get_from_repo: repo_name = magic-flash
+[2023/08/20 12:50:03] GithubTracks DEBUG: _get_from_repo: repo_name = magic-mount-extend
+[2023/08/20 12:50:07] GithubTracks DEBUG: _get_from_repo: repo_name = Magisk
+[2023/08/20 12:50:08] GithubTracks ERROR: _get_from_repo: [Magisk] -> MagiskModuleError(Magisk is not a target magisk module repository)
+[2023/08/20 12:50:08] GithubTracks DEBUG: _get_from_repo: repo_name = Magisk-Documention-Chinese
+[2023/08/20 12:50:08] GithubTracks ERROR: _get_from_repo: [Magisk-Documention-Chinese] -> MagiskModuleError(Magisk-Documention-Chinese is not a target magisk module repository)
+[2023/08/20 12:50:08] GithubTracks DEBUG: _get_from_repo: repo_name = magisk-modules-repo-util
+[2023/08/20 12:50:09] GithubTracks ERROR: _get_from_repo: [magisk-modules-repo-util] -> MagiskModuleError(magisk-modules-repo-util is not a target magisk module repository)
+[2023/08/20 12:50:09] GithubTracks DEBUG: _get_from_repo: repo_name = MagiskHide-v23-Fix
+[2023/08/20 12:50:09] GithubTracks ERROR: _get_from_repo: [MagiskHide-v23-Fix] -> MagiskModuleError(MagiskHide-v23-Fix is not a target magisk module repository)
+[2023/08/20 12:50:09] GithubTracks DEBUG: _get_from_repo: repo_name = MagiskOnEmu
+[2023/08/20 12:50:09] GithubTracks ERROR: _get_from_repo: [MagiskOnEmu] -> MagiskModuleError(MagiskOnEmu is not a target magisk module repository)
+[2023/08/20 12:50:09] GithubTracks DEBUG: _get_from_repo: repo_name = MagiskOnWSA
+[2023/08/20 12:50:10] GithubTracks ERROR: _get_from_repo: [MagiskOnWSA] -> GithubException(403 {'message': 'Repository access blocked', 'block': {'reason': 'tos', 'created_at': '2022-08-12T17:28:06Z', 'html_url': 'https://github.com/tos'}} {'server': 'GitHub.com', 'date': 'Sun, 20 Aug 2023 04:50:09 GMT', 'content-type': 'application/json; charset=utf-8', 'transfer-encoding': 'chunked', 'x-oauth-scopes': 'admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages', 'x-accepted-oauth-scopes': '', 'x-github-media-type': 'github.v3; format=json', 'x-github-api-version-selected': '2022-11-28', 'x-ratelimit-limit': '5000', 'x-ratelimit-remaining': '4867', 'x-ratelimit-reset': '1692510378', 'x-ratelimit-used': '133', 'x-ratelimit-resource': 'core', 'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset', 'access-control-allow-origin': '*', 'strict-transport-security': 'max-age=31536000; includeSubdomains; preload', 'x-frame-options': 'deny', 'x-content-type-options': 'nosniff', 'x-xss-protection': '0', 'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin', 'content-security-policy': "default-src 'none'", 'vary': 'Accept-Encoding, Accept, X-Requested-With', 'content-encoding': 'gzip', 'x-github-request-id': 'A0A0:7AAB:4AD5A2A:4D541AB:64E19B81'})
+[2023/08/20 12:50:10] GithubTracks DEBUG: _get_from_repo: repo_name = MagiskOnWSALocal
+[2023/08/20 12:50:10] GithubTracks ERROR: _get_from_repo: [MagiskOnWSALocal] -> MagiskModuleError(MagiskOnWSALocal is not a target magisk module repository)
+[2023/08/20 12:50:10] GithubTracks DEBUG: _get_from_repo: repo_name = magisk_All
+[2023/08/20 12:50:15] GithubTracks DEBUG: _get_from_repo: repo_name = Malware-Patch
+[2023/08/20 12:50:16] GithubTracks ERROR: _get_from_repo: [Malware-Patch] -> MagiskModuleError(Malware-Patch is not a target magisk module repository)
+[2023/08/20 12:50:16] GithubTracks DEBUG: _get_from_repo: repo_name = MaterialFiles
+[2023/08/20 12:50:16] GithubTracks ERROR: _get_from_repo: [MaterialFiles] -> MagiskModuleError(MaterialFiles is not a target magisk module repository)
+[2023/08/20 12:50:16] GithubTracks DEBUG: _get_from_repo: repo_name = melody
+[2023/08/20 12:50:16] GithubTracks ERROR: _get_from_repo: [melody] -> MagiskModuleError(melody is not a target magisk module repository)
+[2023/08/20 12:50:16] GithubTracks DEBUG: _get_from_repo: repo_name = MindTheGappsBuilder
+[2023/08/20 12:50:17] GithubTracks ERROR: _get_from_repo: [MindTheGappsBuilder] -> MagiskModuleError(MindTheGappsBuilder is not a target magisk module repository)
+[2023/08/20 12:50:17] GithubTracks DEBUG: _get_from_repo: repo_name = MockingBird
+[2023/08/20 12:50:17] GithubTracks ERROR: _get_from_repo: [MockingBird] -> MagiskModuleError(MockingBird is not a target magisk module repository)
+[2023/08/20 12:50:17] GithubTracks DEBUG: _get_from_repo: repo_name = Motrix
+[2023/08/20 12:50:18] GithubTracks ERROR: _get_from_repo: [Motrix] -> MagiskModuleError(Motrix is not a target magisk module repository)
+[2023/08/20 12:50:19] GithubTracks DEBUG: _get_from_repo: repo_name = MRepo
+[2023/08/20 12:50:19] GithubTracks ERROR: _get_from_repo: [MRepo] -> MagiskModuleError(MRepo is not a target magisk module repository)
+[2023/08/20 12:50:19] GithubTracks DEBUG: _get_from_repo: repo_name = My_Own_Drawing_Bed
+[2023/08/20 12:50:19] GithubTracks ERROR: _get_from_repo: [My_Own_Drawing_Bed] -> MagiskModuleError(My_Own_Drawing_Bed is not a target magisk module repository)
+[2023/08/20 12:50:19] GithubTracks DEBUG: _get_from_repo: repo_name = nano-ndk
+[2023/08/20 12:50:24] GithubTracks DEBUG: _get_from_repo: repo_name = novelai-colab
+[2023/08/20 12:50:24] GithubTracks ERROR: _get_from_repo: [novelai-colab] -> MagiskModuleError(novelai-colab is not a target magisk module repository)
+[2023/08/20 12:50:24] GithubTracks DEBUG: _get_from_repo: repo_name = novelai-colab-ver
+[2023/08/20 12:50:25] GithubTracks ERROR: _get_from_repo: [novelai-colab-ver] -> GithubException(451 {'message': 'Repository access blocked', 'block': {'reason': 'dmca', 'created_at': '2022-10-31T16:23:14Z', 'html_url': 'https://github.com/github/dmca/blob/master/2022/10/2022-10-31-novelai.md'}} {'server': 'GitHub.com', 'date': 'Sun, 20 Aug 2023 04:50:24 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '187', 'x-oauth-scopes': 'admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, admin:ssh_signing_key, audit_log, codespace, delete:packages, delete_repo, gist, notifications, project, repo, user, workflow, write:discussion, write:packages', 'x-accepted-oauth-scopes': '', 'x-github-media-type': 'github.v3; format=json', 'x-github-api-version-selected': '2022-11-28', 'x-ratelimit-limit': '5000', 'x-ratelimit-remaining': '4841', 'x-ratelimit-reset': '1692510378', 'x-ratelimit-used': '159', 'x-ratelimit-resource': 'core', 'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset', 'access-control-allow-origin': '*', 'strict-transport-security': 'max-age=31536000; includeSubdomains; preload', 'x-frame-options': 'deny', 'x-content-type-options': 'nosniff', 'x-xss-protection': '0', 'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin', 'content-security-policy': "default-src 'none'", 'vary': 'Accept-Encoding, Accept, X-Requested-With', 'x-github-request-id': 'A0A0:7AAB:4AD698A:4D55180:64E19B90'})
+[2023/08/20 12:50:25] GithubTracks DEBUG: _get_from_repo: repo_name = NovelAI-installation-tutorial
+[2023/08/20 12:50:25] GithubTracks ERROR: _get_from_repo: [NovelAI-installation-tutorial] -> MagiskModuleError(NovelAI-installation-tutorial is not a target magisk module repository)
+[2023/08/20 12:50:25] GithubTracks DEBUG: _get_from_repo: repo_name = oneplus9pro
+[2023/08/20 12:50:26] GithubTracks ERROR: _get_from_repo: [oneplus9pro] -> MagiskModuleError(oneplus9pro is not a target magisk module repository)
+[2023/08/20 12:50:26] GithubTracks DEBUG: _get_from_repo: repo_name = open-gpu-kernel-modules
+[2023/08/20 12:50:26] GithubTracks ERROR: _get_from_repo: [open-gpu-kernel-modules] -> MagiskModuleError(open-gpu-kernel-modules is not a target magisk module repository)
+[2023/08/20 12:50:26] GithubTracks DEBUG: _get_from_repo: repo_name = opengapps
+[2023/08/20 12:50:26] GithubTracks ERROR: _get_from_repo: [opengapps] -> MagiskModuleError(opengapps is not a target magisk module repository)
+[2023/08/20 12:50:26] GithubTracks DEBUG: _get_from_repo: repo_name = payload-dumper-go
+[2023/08/20 12:50:27] GithubTracks ERROR: _get_from_repo: [payload-dumper-go] -> MagiskModuleError(payload-dumper-go is not a target magisk module repository)
+[2023/08/20 12:50:27] GithubTracks DEBUG: _get_from_repo: repo_name = PyRPA
+[2023/08/20 12:50:27] GithubTracks ERROR: _get_from_repo: [PyRPA] -> MagiskModuleError(PyRPA is not a target magisk module repository)
+[2023/08/20 12:50:27] GithubTracks DEBUG: _get_from_repo: repo_name = reactos
+[2023/08/20 12:50:28] GithubTracks ERROR: _get_from_repo: [reactos] -> MagiskModuleError(reactos is not a target magisk module repository)
+[2023/08/20 12:50:28] GithubTracks DEBUG: _get_from_repo: repo_name = release-action
+[2023/08/20 12:50:28] GithubTracks ERROR: _get_from_repo: [release-action] -> MagiskModuleError(release-action is not a target magisk module repository)
+[2023/08/20 12:50:28] GithubTracks DEBUG: _get_from_repo: repo_name = rewind-apks
+[2023/08/20 12:50:28] GithubTracks ERROR: _get_from_repo: [rewind-apks] -> MagiskModuleError(rewind-apks is not a target magisk module repository)
+[2023/08/20 12:50:28] GithubTracks DEBUG: _get_from_repo: repo_name = Riru
+[2023/08/20 12:50:29] GithubTracks ERROR: _get_from_repo: [Riru] -> MagiskModuleError(Riru is not a target magisk module repository)
+[2023/08/20 12:50:29] GithubTracks DEBUG: _get_from_repo: repo_name = RootGuard
+[2023/08/20 12:50:29] GithubTracks ERROR: _get_from_repo: [RootGuard] -> MagiskModuleError(RootGuard is not a target magisk module repository)
+[2023/08/20 12:50:29] GithubTracks DEBUG: _get_from_repo: repo_name = Scoop
+[2023/08/20 12:50:30] GithubTracks ERROR: _get_from_repo: [Scoop] -> MagiskModuleError(Scoop is not a target magisk module repository)
+[2023/08/20 12:50:30] GithubTracks DEBUG: _get_from_repo: repo_name = scrcpy
+[2023/08/20 12:50:30] GithubTracks ERROR: _get_from_repo: [scrcpy] -> MagiskModuleError(scrcpy is not a target magisk module repository)
+[2023/08/20 12:50:30] GithubTracks DEBUG: _get_from_repo: repo_name = scripts
+[2023/08/20 12:50:30] GithubTracks ERROR: _get_from_repo: [scripts] -> MagiskModuleError(scripts is not a target magisk module repository)
+[2023/08/20 12:50:30] GithubTracks DEBUG: _get_from_repo: repo_name = server
+[2023/08/20 12:50:31] GithubTracks ERROR: _get_from_repo: [server] -> MagiskModuleError(server is not a target magisk module repository)
+[2023/08/20 12:50:31] GithubTracks DEBUG: _get_from_repo: repo_name = SKRoot-linuxKernelRoot
+[2023/08/20 12:50:31] GithubTracks ERROR: _get_from_repo: [SKRoot-linuxKernelRoot] -> MagiskModuleError(SKRoot-linuxKernelRoot is not a target magisk module repository)
+[2023/08/20 12:50:31] GithubTracks DEBUG: _get_from_repo: repo_name = Starward
+[2023/08/20 12:50:32] GithubTracks ERROR: _get_from_repo: [Starward] -> MagiskModuleError(Starward is not a target magisk module repository)
+[2023/08/20 12:50:32] GithubTracks DEBUG: _get_from_repo: repo_name = systemMagisk
+[2023/08/20 12:50:36] GithubTracks DEBUG: _get_from_repo: repo_name = tacotron2-japanese
+[2023/08/20 12:50:37] GithubTracks ERROR: _get_from_repo: [tacotron2-japanese] -> MagiskModuleError(tacotron2-japanese is not a target magisk module repository)
+[2023/08/20 12:50:37] GithubTracks DEBUG: _get_from_repo: repo_name = tencent-scf
+[2023/08/20 12:50:37] GithubTracks ERROR: _get_from_repo: [tencent-scf] -> MagiskModuleError(tencent-scf is not a target magisk module repository)
+[2023/08/20 12:50:37] GithubTracks DEBUG: _get_from_repo: repo_name = TieBaSign
+[2023/08/20 12:50:38] GithubTracks ERROR: _get_from_repo: [TieBaSign] -> MagiskModuleError(TieBaSign is not a target magisk module repository)
+[2023/08/20 12:50:38] GithubTracks DEBUG: _get_from_repo: repo_name = TIK
+[2023/08/20 12:50:38] GithubTracks ERROR: _get_from_repo: [TIK] -> MagiskModuleError(TIK is not a target magisk module repository)
+[2023/08/20 12:50:38] GithubTracks DEBUG: _get_from_repo: repo_name = uperf
+[2023/08/20 12:50:38] GithubTracks ERROR: _get_from_repo: [uperf] -> MagiskModuleError(uperf is not a target magisk module repository)
+[2023/08/20 12:50:38] GithubTracks DEBUG: _get_from_repo: repo_name = vendor_ag
+[2023/08/20 12:50:39] GithubTracks ERROR: _get_from_repo: [vendor_ag] -> MagiskModuleError(vendor_ag is not a target magisk module repository)
+[2023/08/20 12:50:39] GithubTracks DEBUG: _get_from_repo: repo_name = vendor_dlkm_repacker
+[2023/08/20 12:50:39] GithubTracks ERROR: _get_from_repo: [vendor_dlkm_repacker] -> MagiskModuleError(vendor_dlkm_repacker is not a target magisk module repository)
+[2023/08/20 12:50:40] GithubTracks DEBUG: _get_from_repo: repo_name = vendor_intel_proprietary_houdini
+[2023/08/20 12:50:40] GithubTracks ERROR: _get_from_repo: [vendor_intel_proprietary_houdini] -> MagiskModuleError(vendor_intel_proprietary_houdini is not a target magisk module repository)
+[2023/08/20 12:50:40] GithubTracks DEBUG: _get_from_repo: repo_name = vikacg-auto-check
+[2023/08/20 12:50:41] GithubTracks ERROR: _get_from_repo: [vikacg-auto-check] -> MagiskModuleError(vikacg-auto-check is not a target magisk module repository)
+[2023/08/20 12:50:41] GithubTracks DEBUG: _get_from_repo: repo_name = vitepress
+[2023/08/20 12:50:41] GithubTracks ERROR: _get_from_repo: [vitepress] -> MagiskModuleError(vitepress is not a target magisk module repository)
+[2023/08/20 12:50:41] GithubTracks DEBUG: _get_from_repo: repo_name = VPNHotspot
+[2023/08/20 12:50:42] GithubTracks ERROR: _get_from_repo: [VPNHotspot] -> MagiskModuleError(VPNHotspot is not a target magisk module repository)
+[2023/08/20 12:50:42] GithubTracks DEBUG: _get_from_repo: repo_name = waydroid_script
+[2023/08/20 12:50:42] GithubTracks ERROR: _get_from_repo: [waydroid_script] -> MagiskModuleError(waydroid_script is not a target magisk module repository)
+[2023/08/20 12:50:42] GithubTracks DEBUG: _get_from_repo: repo_name = Windows-11-Fixer
+[2023/08/20 12:50:42] GithubTracks ERROR: _get_from_repo: [Windows-11-Fixer] -> MagiskModuleError(Windows-11-Fixer is not a target magisk module repository)
+[2023/08/20 12:50:42] GithubTracks DEBUG: _get_from_repo: repo_name = WSA
+[2023/08/20 12:50:43] GithubTracks ERROR: _get_from_repo: [WSA] -> MagiskModuleError(WSA is not a target magisk module repository)
+[2023/08/20 12:50:43] GithubTracks DEBUG: _get_from_repo: repo_name = WSA-Linux-Kernel
+[2023/08/20 12:50:43] GithubTracks ERROR: _get_from_repo: [WSA-Linux-Kernel] -> MagiskModuleError(WSA-Linux-Kernel is not a target magisk module repository)
+[2023/08/20 12:50:43] GithubTracks DEBUG: _get_from_repo: repo_name = WSAGAScript
+[2023/08/20 12:50:44] GithubTracks ERROR: _get_from_repo: [WSAGAScript] -> MagiskModuleError(WSAGAScript is not a target magisk module repository)
+[2023/08/20 12:50:44] GithubTracks DEBUG: _get_from_repo: repo_name = WSA_houdini_A12.1
+[2023/08/20 12:50:44] GithubTracks ERROR: _get_from_repo: [WSA_houdini_A12.1] -> MagiskModuleError(WSA_houdini_A12.1 is not a target magisk module repository)
+[2023/08/20 12:50:44] GithubTracks DEBUG: _get_from_repo: repo_name = XposedBridge
+[2023/08/20 12:50:44] GithubTracks ERROR: _get_from_repo: [XposedBridge] -> MagiskModuleError(XposedBridge is not a target magisk module repository)
+[2023/08/20 12:50:44] GithubTracks DEBUG: _get_from_repo: repo_name = XposedTools
+[2023/08/20 12:50:45] GithubTracks ERROR: _get_from_repo: [XposedTools] -> MagiskModuleError(XposedTools is not a target magisk module repository)
+[2023/08/20 12:50:45] GithubTracks DEBUG: _get_from_repo: repo_name = zodgame_checkin
+[2023/08/20 12:50:45] GithubTracks ERROR: _get_from_repo: [zodgame_checkin] -> MagiskModuleError(zodgame_checkin is not a target magisk module repository)
+[2023/08/20 12:50:45] GithubTracks DEBUG: _get_from_repo: repo_name = ZygiskOnKernelSU
+[2023/08/20 12:50:46] GithubTracks ERROR: _get_from_repo: [ZygiskOnKernelSU] -> MagiskModuleError(ZygiskOnKernelSU is not a target magisk module repository)
+[2023/08/20 12:50:46] GithubTracks INFO: get_tracks: size = 11
+[2023/08/20 12:52:21] LocalTracks INFO: get_tracks: modules_folder = /home/celica/Github/celica-magisk-modules-repo/modules
+[2023/08/20 12:52:21] LocalTracks INFO: get_tracks: size = 13
+[2023/08/20 12:52:21] Pull DEBUG: from_track: [BuiltIn-BusyBox] -> type: ONLINE_JSON
+[2023/08/20 12:52:26] Sync INFO: update: [BuiltIn-BusyBox] -> update to 1.0.5 (105)
+[2023/08/20 12:52:26] Pull DEBUG: from_track: [Fake_Sudo] -> type: GIT
+[2023/08/20 12:52:28] Sync INFO: update: [Fake_Sudo] -> update to v1.0.1 (2)
+[2023/08/20 12:52:28] Pull DEBUG: from_track: [Kernel_Module_Loader] -> type: GIT
+[2023/08/20 12:52:30] Sync INFO: update: [Kernel_Module_Loader] -> update to v1.0.1 (101)
+[2023/08/20 12:52:30] Pull DEBUG: from_track: [busybox-ndk] -> type: ONLINE_JSON
+[2023/08/20 12:52:36] Sync INFO: update: [busybox-ndk] -> update to 1.36.1 (13612)
+[2023/08/20 12:52:36] Pull DEBUG: from_track: [hpexperince] -> type: GIT
+[2023/08/20 12:52:38] Sync INFO: update: [hpexperince] -> update to 1.0 (1)
+[2023/08/20 12:52:38] Pull DEBUG: from_track: [lhroot] -> type: GIT
+[2023/08/20 12:52:40] Sync INFO: update: [lhroot] -> update to v2.2.0 (1)
+[2023/08/20 12:52:40] Pull DEBUG: from_track: [magic-flash] -> type: GIT
+[2023/08/20 12:53:01] Sync INFO: update: [magic-flash] -> update to v1.6 (10006)
+[2023/08/20 12:53:01] Pull DEBUG: from_track: [magic-mount-extend] -> type: GIT
+[2023/08/20 12:53:04] Sync INFO: update: [magic-mount-extend] -> update to v4.0 (5)
+[2023/08/20 12:53:04] Pull DEBUG: from_track: [magisk_All] -> type: GIT
+[2023/08/20 12:53:57] Pull WARNING: _from_zip_common: [magisk_All] -> file size too large (50.0 MB), update check will be disabled
+[2023/08/20 12:53:57] Pull DEBUG: from_track: [nano-ndk] -> type: ONLINE_JSON
+[2023/08/20 12:54:03] Sync INFO: update: [nano-ndk] -> update to 7.2 (7203)
+[2023/08/20 12:54:03] Pull DEBUG: from_track: [systemMagisk] -> type: GIT
+[2023/08/20 12:54:06] Sync INFO: update: [systemMagisk] -> update to 1 (1)
+[2023/08/20 12:54:06] Pull DEBUG: from_track: [zygisk_lsposed] -> type: ONLINE_JSON
+[2023/08/20 12:54:09] Pull DEBUG: from_track: [zygisk_shamiko] -> type: ONLINE_JSON
+[2023/08/20 12:54:10] LocalTracks INFO: get_tracks: modules_folder = /home/celica/Github/celica-magisk-modules-repo/modules
+[2023/08/20 12:54:10] LocalTracks INFO: get_tracks: size = 13

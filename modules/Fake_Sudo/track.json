@@ -1,0 +1,11 @@
+{
+  "id": "Fake_Sudo",
+  "update_to": "https://github.com/natsumerinchan/Fake_Sudo.git",
+  "license": "MIT",
+  "homepage": "https://github.com/natsumerinchan/Fake_Sudo",
+  "source": "https://github.com/natsumerinchan/Fake_Sudo.git",
+  "support": "https://github.com/natsumerinchan/Fake_Sudo/issues",
+  "added": 1692506964.930599,
+  "last_update": 1686478426.0,
+  "versions": 1
+}
